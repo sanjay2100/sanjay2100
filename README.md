@@ -11,9 +11,16 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 
 ---
 
+## Skills
+[![React JS](https://skillicons.dev/icons?i=js,html,css,react,redux,spring,nodejs,ts)](https://skillicons.dev)
+
+---
+
 ## 🔧 Tech Stack
 ### **Frontend**
-[![React JS](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
