@@ -14,7 +14,6 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 ## 🔧 Tech Stack
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 
