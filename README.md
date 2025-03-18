@@ -38,6 +38,13 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 
 ---
 
+## 🎯 HackerRank Badges
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5C5C5C?logo=hackerrank&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=postgresql&logoColor=white&style=for-the-badge)
+
+---
+
 ## 📌 Featured Projects
 - 🚀 **[E-Commerce App]([GitHub Repo Link](https://github.com/sanjay2100/Deer))** - This is an E Commerce app frontend built using React JS and the backend is powered by spring boot.
 
