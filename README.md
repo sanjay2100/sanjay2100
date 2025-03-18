@@ -12,7 +12,7 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 ---
 
 ## Skills
-[![React JS](https://skillicons.dev/icons?i=js,html,css,react,redux,spring,nodejs,ts)](https://skillicons.dev)
+[![React JS](https://skillicons.dev/icons?i=java,js,html,css,react,redux,spring,nodejs,ts)](https://skillicons.dev)
 
 ---
 
