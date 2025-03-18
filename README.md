@@ -32,7 +32,7 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 ---
 
 ## 📫 Get in Touch
-- 💼 [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/sanjay-m-621b1a197/))
+- 💼 [LinkedIn]([Visit My LinkedIn Page](https://www.linkedin.com/in/sanjay-m-621b1a197/))
 - 📧 Email: sanjaymanikandan21@gmail.com
 
 Let's connect and build something amazing together! 🚀
