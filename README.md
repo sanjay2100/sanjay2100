@@ -27,7 +27,7 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge)
+![JPA](https://img.shields.io/badge/Hibernate-59666C?logo=jpa&logoColor=white&style=for-the-badge)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
