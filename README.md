@@ -27,7 +27,7 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 ---
 
 ## 📌 Featured Projects
-- 🚀 **[E-Commerce App]([GitHub Repo Link](https://github.com/sanjay2100/Deer))** - This is an E Commerce app frontend built using React JS and the backed is powered by spring boot.
+- 🚀 **[E-Commerce App]([GitHub Repo Link](https://github.com/sanjay2100/Deer))** - This is an E Commerce app frontend built using React JS and the backend is powered by spring boot.
 
 ---
 
