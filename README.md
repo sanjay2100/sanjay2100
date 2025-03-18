@@ -13,7 +13,7 @@ I enjoy solving complex problems, optimizing performance, and working with moder
 
 ## 🔧 Tech Stack
 ### **Frontend**
-[![React JS](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)!
+[![React JS](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
